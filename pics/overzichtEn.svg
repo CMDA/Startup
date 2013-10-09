@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="500px" height="40px" viewBox="0 0 500 40" enable-background="new 0 0 500 40" xml:space="preserve">
+<polygon fill="#96C105" points="0,0 80,0 90,20 80,40 0,40 "/>
+<polygon fill="#2E6EC2" points="99,0 239,0 249,20 239,40 99,40 "/>
+<polygon fill="#EF6B00" points="258,0 488,0 498.002,20 488,40 258,40 "/>
+<line opacity="0.5" fill="none" stroke="#F1F1F2" stroke-miterlimit="10" stroke-opacity="0.6" enable-background="new    " x1="30" y1="0" x2="30" y2="40"/>
+<line opacity="0.5" fill="none" stroke="#F1F1F2" stroke-miterlimit="10" enable-background="new    " x1="129" y1="0" x2="129" y2="40"/>
+<line opacity="0.5" fill="none" stroke="#F1F1F2" stroke-miterlimit="10" enable-background="new    " x1="189" y1="0" x2="189" y2="40"/>
+<line opacity="0.5" fill="none" stroke="#F1F1F2" stroke-miterlimit="10" enable-background="new    " x1="318" y1="0" x2="318" y2="40"/>
+<line opacity="0.5" fill="none" stroke="#F1F1F2" stroke-miterlimit="10" enable-background="new    " x1="378" y1="0" x2="378" y2="40"/>
+<line opacity="0.5" fill="none" stroke="#F1F1F2" stroke-miterlimit="10" enable-background="new    " x1="438" y1="0" x2="438" y2="40"/>
+<text transform="matrix(1 0 0 1 10 23.3311)" font-family="'OpenSans-Light'" font-size="11.1111">Presence</text>
+<text transform="matrix(1 0 0 1 109.001 23.3311)" font-family="'OpenSans-Light'" font-size="11.1111">Exposure</text>
+<text transform="matrix(1 0 0 1 268 23.3311)" font-family="'OpenSans-Light'" font-size="11.1111">Production</text>
+</svg>

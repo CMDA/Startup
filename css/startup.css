@@ -1,0 +1,96 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  min-height: 2000px;
+  padding-top: 70px;
+}
+
+.container {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+h4 {
+  margin-top: 25px;
+}
+
+p {
+  font-weight: 300;
+}
+strong, b {
+  font-weight: 600;
+}
+
+.row {
+  margin-bottom: 20px;
+}
+.row .row {
+  margin-top: 10px;
+  margin-bottom: 0;
+}
+/*
+[class*="col-"] {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #eee;
+  border: 1px solid #ddd;
+  background-color: rgba(86,61,124,.15);
+  border: 1px solid rgba(86,61,124,.2);
+}*/
+
+hr {
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+.navbar {
+  background: rgb(226,0,125);
+}
+.navbar-default .navbar-brand,
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:focus {
+  font-weight: bold;
+  color: #ffffff;
+}
+.navbar-default .navbar-nav > li > a {
+  color: #ffffff;
+}
+
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+  color: rgb(226,0,125);
+  background-color: #ffffff;
+}
+
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:hover,
+.navbar-default .navbar-nav > .active > a:focus {
+  color: #ffffff;
+  text-decoration: underline;
+  background-color: transparent;
+}
+
+.navbar-default .navbar-nav > .disabled > a,
+.navbar-default .navbar-nav > .disabled > a:hover,
+.navbar-default .navbar-nav > .disabled > a:focus {
+  color: #c2c2c2;
+  background-color: transparent;
+}
+
+.navbar-default .navbar-toggle {
+  border-color: transparent;
+}
+
+.navbar-default .navbar-toggle:hover,
+.navbar-default .navbar-toggle:focus {
+  background: rgb(226,0,125);
+  border-color: #ffffff;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+  background-color: #ffffff;
+}
+
+.navbar-default .navbar-collapse,
+.navbar-default .navbar-form {
+  border-color: rgb(226,0,125);
+}
