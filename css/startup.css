@@ -1,7 +1,12 @@
+html, html a {
+    -webkit-font-smoothing: antialiased;
+    text-shadow: 1px 1px 1px rgba(0,0,0,0.004);
+}
+
 body {
-  font-family: 'Open Sans', sans-serif;
   min-height: 2000px;
   padding-top: 70px;
+  color: #34302d;
 }
 
 .container {
@@ -43,22 +48,25 @@ hr {
 }
 
 .navbar {
-  background: rgb(226,0,125);
+  border-top: .4em rgb(226,0,125) solid;
+  background: #34302d;
 }
 .navbar-default .navbar-brand,
 .navbar-default .navbar-brand:hover,
 .navbar-default .navbar-brand:focus {
   font-weight: bold;
+  text-transform: uppercase;
   color: #ffffff;
 }
 .navbar-default .navbar-nav > li > a {
+  font-weight: bold;
   color: #ffffff;
 }
 
 .navbar-default .navbar-nav > li > a:hover,
 .navbar-default .navbar-nav > li > a:focus {
-  color: rgb(226,0,125);
-  background-color: #ffffff;
+  background-color: rgb(226,0,125);
+  color: #ffffff;
 }
 
 .navbar-default .navbar-nav > .active > a,
@@ -82,8 +90,9 @@ hr {
 
 .navbar-default .navbar-toggle:hover,
 .navbar-default .navbar-toggle:focus {
-  background: rgb(226,0,125);
+  background: transparent;
   border-color: #ffffff;
+  border-color: transparent;
 }
 
 .navbar-default .navbar-toggle .icon-bar {
@@ -92,5 +101,24 @@ hr {
 
 .navbar-default .navbar-collapse,
 .navbar-default .navbar-form {
-  border-color: rgb(226,0,125);
+  border-color: #34302d;
+}
+.centered-icon {
+  display: block;
+  margin: 0 auto;
+  font-size: 2.5em;
+  text-align: center;
+  line-height: 2.5em;
+}
+.jumbotron {
+  background: url(../pics/projectgroep.jpg);
+  background-size: cover;
+}
+.jumbotron p,
+.jumbotron h1 {
+  display: inline-block;
+  padding: .1em;
+  background: rgba(42,58,45,.6);
+  color: white;
+  width: auto;
 }

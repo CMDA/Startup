@@ -8,19 +8,16 @@
     <link rel="shortcut icon" href="/pics/favicon.ico">
 
     <title>Project Startup</title>
-
-    <link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,600,300' rel='stylesheet' type='text/css'>
     <link href="/css/bootstrap.css" rel="stylesheet">
     <link href="/css/startup.css" rel="stylesheet">
 
-    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
     <script src="/js/html5shiv.js"></script>
     <script src="/js/respond.min.js"></script>
     <![endif]-->
 </head>
 <body>
-    <!-- Fixed navbar -->
+
     <div class="navbar navbar-default navbar-fixed-top">
         <div class="container">
             <div class="navbar-header">
@@ -29,36 +26,55 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="/index.html">Project Startup</a>
+                <a class="navbar-brand" href="/index.html">Startup</a>
             </div>
             <div class="navbar-collapse collapse">
-            <ul class="nav navbar-nav">
-                <li><a href="tijdlijn.html">Tijdlijn</a></li>
-                <li><a href="tools.html">Tools</a></li>
-                <li><a href="etalage.html">Etalage</a></li>
-            </ul>
-            <ul class="nav navbar-nav navbar-right">
-                <li><a href="http://moodle.dmci.hva.nl">Vragen?</a></li>
-            </ul>
-            </div><!--/.nav-collapse -->
+                <ul class="nav navbar-nav">
+                    <li><a href="tijdlijn.html">Tijdlijn</a></li>
+                    <li><a href="tools.html">Tools</a></li>
+                    <li><a href="etalage.html">Etalage</a></li>
+                </ul>
+                <ul class="nav navbar-nav navbar-right">
+                    <li><a href="http://moodle.dmci.hva.nl">Vragen?</a></li>
+                </ul>
+            </div>
         </div>
     </div>
 
     <div class="container">
 
-        <div class="page-header">
+        <div class="jumbotron">
             <h1>Een CMD-Amsterdam project!</h1>
-            <p class="lead">Project startup is een teamproject van de opleiding Communication &amp; Multimedia Design aan de Hogeschool van Amsterdam waarin propedeusestudenten kennismaken met drie beroepssituaties van een fictieve jonge onderneming in het CMD vakgebied.</p>
+            <p class="lead">Startup is een teamproject van de opleiding Communication &amp; Multimedia Design aan de Hogeschool van Amsterdam waarin propedeusestudenten kennismaken met drie beroepssituaties van een fictieve jonge onderneming in het CMD vakgebied.</p>
         </div>
 
-        <h2>Doelen</h2>
-        <p>Samenwerken in een <strong>multidisciplinair</strong> team. Je eigen positie binnen een team leren kennen.</p>
-        <p>Kennismaken met de <em>CMD beroepsrollen</em>. CM, VD, ID, FD, PM</p>
-        <p>Leren omgaan met een agile/lean projectmethodiek.</p>
-        <p>Passende oplossingen voor beroepsvraagstukken bedenken.</p>
-        <p>Nauwe samenwerking met de vakken uit het curriculum.</p>
-        <p>Slackers signaleren.</p>
-        <p>Oog voor detail!</p>
+        <div class="row">
+            <div class="col-md-12">
+                <button type="button" class="btn btn-primary" onclick="document.location='tijdlijn.html#current';">
+                    <span class="glyphicon glyphicon-list-alt"></span>
+                    Direct naar het weekoverzicht
+                </button>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-4">
+                <span class="glyphicon glyphicon-user centered-icon"></span>
+                <p>Samenwerken in een <strong>multidisciplinair</strong> team. Je eigen positie binnen een team leren kennen.</p>
+                <p>Kennismaken met de <em>CMD beroepsrollen</em>. CM, VD, ID, FD, PM</p>
+            </div>
+            <div class="col-md-4">
+                <span class="glyphicon glyphicon-repeat centered-icon"></span>
+                <p>Leren omgaan met een agile/lean projectmethodiek.</p>
+                <p>Passende oplossingen voor beroepsvraagstukken bedenken.</p>
+            </div>
+            <div class="col-md-4">
+                <span class="glyphicon glyphicon-th-large centered-icon"></span>
+                <p>Nauwe samenwerking met de vakken uit het curriculum.</p>
+                <p>Slackers signaleren.</p>
+                <p>Oog voor detail!</p>
+            </div>
+        </div>
 
         <h2>Kenmerken</h2>
         <p>Drie teamwisselingen.</p>
@@ -97,6 +113,8 @@
         <h3>Standup meetings</h3>
         <p>Afwezig zonder reden is onvoldoende (namelijk geen leerproces)</p>
         <p>Reflectie op sprints.</p>
+
+        <h3>Werkplaats</h3>
 
         <h3>Oplevermomenten</h3>
 
@@ -189,10 +207,8 @@
     </div> <!-- /container -->
 
 
-    <!-- Bootstrap core JavaScript
-    ================================================== -->
-    <!-- Placed at the end of the document so the pages load faster -->
+    <!-- Bootstrap core JavaScript -->
     <script src="/js/jquery.min.js"></script>
     <script src="/js/bootstrap.min.js"></script>
-  </body>
+</body>
 </html>
