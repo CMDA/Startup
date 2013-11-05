@@ -110,8 +110,12 @@ hr {
   text-align: center;
   line-height: 2.5em;
 }
-.jumbotron {
+.jumbotron.startup {
   background: url(../pics/projectgroep.jpg);
+  background-size: cover;
+}
+.jumbotron.tools {
+  background: url(../pics/postits.jpg);
   background-size: cover;
 }
 .jumbotron p,
@@ -121,4 +125,8 @@ hr {
   background: rgba(42,58,45,.6);
   color: white;
   width: auto;
+}
+
+.list-group-item p>span {
+  font-weight: bold;
 }
