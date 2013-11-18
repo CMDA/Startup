@@ -130,3 +130,11 @@ hr {
 .list-group-item p>span {
   font-weight: bold;
 }
+
+.list-group-item .horizontal-anchor {
+  position: relative;
+  width: 5px;
+  height: 5px;
+  background: red;
+  top: -100px;
+}
