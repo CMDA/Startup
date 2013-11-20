@@ -19,7 +19,7 @@ Welk gedrag ervaar je als vervelend in projectwerk? [(Opzet afspraken)](afsprake
 
 !
 
-# Identiteit
+# De identiteit van jouw onderneming
 ![Schetsen](sketch.gif)
 Hoe presenteren jullie je?
 
