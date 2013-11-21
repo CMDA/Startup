@@ -26,7 +26,7 @@ Hoe presenteren jullie je?
 !
 
 # Grip op Agile
-Vandaag bespreken we kort de doelen van twee Agile technieken waar we de komende weken mee gaan experimenteren.
+Vandaag bespreken we kort de doelen van drie Agile technieken waar we de komende weken mee gaan experimenteren.
 
 - Standup meeting
 - Planning Poker
