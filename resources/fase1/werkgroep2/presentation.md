@@ -17,15 +17,43 @@ Informele presentatie van bestudeerde onderwerpen door alle betrokken studenten.
 
 !
 
-# Beoordeling
+# Beoordelingsformulier
 ![overzicht](overzicht.png)
-Het beoordelingsformulier is grofweg opgedeeld in drie kolommen.
+Het beoordelingsformulier is grofweg opgedeeld in drie kolommen. 
 
 !
 
 # Beoordeling
 ![rechterkolom](rechterkolom.png)
-In deze eerste fase is eigenlijk alleen de meest rechter kolom van belang.
+In deze eerste fase is de meest rechter kolom van belang.
+
+!
+
+# Beoordeling Proces
+![proces](proces.png)
+Op de achterkant van het formulier staat beschreven wat met de verschillende termen bedoeld wordt. Lees dit gezamenlijk door en maak onduidelijkheden bespreekbaar. Let op, deze fase is het proces een formatieve beoordeling, je krijgt dus geen cijfer.
+
+!
+
+# Beoordeling Persoonlijk
+![persoonlijk](persoonlijk.png)
+Op de achterkant van het formulier staat beschreven wat met de verschillende termen bedoeld wordt. Lees dit gezamenlijk door en maak onduidelijkheden bespreekbaar. Let op, deze fase is de persoonlijke beoordeling eveneens formatief, je krijgt ook hier nog geen cijfer.
+
+!
+# Beoordeling Product
+![product](product.png)
+Op de achterkant van het formulier staat beschreven wat met de verschillende termen bedoeld wordt. Lees dit gezamenlijk door en maak onduidelijkheden bespreekbaar. Het product wordt wel summatief beoordeeld, daar ontvang je dus per team een cijfer voor.
+
+!
+
+# Beoordeling Individueel
+![individueel](individueel.png)
+Op de achterkant van het formulier staat beschreven wat met de verschillende termen bedoeld wordt. Lees dit gezamenlijk door en maak onduidelijkheden bespreekbaar. De individuele beoordeling is gedurende het hele project inwisselbaar op officiële presentatiemomenten (7x). Elke student *moet* beide onderdelen AVV afgerond hebben anders ontvangt deze in blok 3 geen cijfer.
+
+!
+
+# Beoordeling
+De hele tekst op de achterzijde van het formulier is ook te lezen op de studiegids pagina van het project op intranet.
 
 !
 
@@ -60,9 +88,9 @@ Afbeelding van deathtostockphoto.com
 !
 
 # De doelgroep
-Neem met je team de doelgroepsomschrijving op de website door en bespreek punten die je opvallen.
+Neem met je team de doelgroepsomschrijving op de website door en bespreek klassikaal punten die je opvallen. IOW, praat er met andere teams over.
 
 !
 
-# Stuff to do
-Neem de taken over die op startup.cmdproject.nl staan en ga aan de slag, ik spreek jullie straks voor een standup meeting.
+# Let's get started // An die Arbeit // Aan de slag // давайте начнем
+Neem de taken over die op startup.cmdproject.nl staan en vang aan... ik spreek jullie straks bij de werkplaats voor een standup meeting.
