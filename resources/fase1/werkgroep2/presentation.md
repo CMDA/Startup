@@ -17,8 +17,15 @@ Informele presentatie van bestudeerde onderwerpen door alle betrokken studenten.
 
 !
 
-# Het beoordelingsformulier
+# Beoordeling
+![overzicht](overzicht.png)
+Het beoordelingsformulier is grofweg opgedeeld in drie kolommen.
 
+!
+
+# Beoordeling
+![rechterkolom](rechterkolom.png)
+In deze eerste fase is eigenlijk alleen de meest rechter kolom van belang.
 
 !
 
