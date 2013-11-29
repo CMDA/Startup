@@ -20,6 +20,7 @@ Houd de presentaties klassikaal of in een markt-setting afhankelijk van wat jij 
 De beoordeling van het product geschied aan de hand van een rubric. Voor de beoordeling van producten zijn er twee opties:
 1. Je beoordeelt het product tijdens de presentaties, schrijf je feedback initieel alleen op het formulier van de beoordelaar en neem dit later over voor de andere leden van het team.
 2. Je beoordeelt het product later tijdens het begin van de werkplaats, je kunt dan rustig door de site heen scrollen en rustig feedback schrijven.
+3. Kies na de laatste presentatie klassikaal (democratisch) de beste uitvoering van de opdracht door studenten handen te laten opsteken en het aantal stemmen te turven. Eventueel kan je de beoordeling van het criterium 'Originaliteit' van het product op deze manier invullen. Breng de beste site mee naar het coachoverleg, daar kiezen we de top 3 welke op de site geëtaleerd worden.
 
 ### Feedback sessie (40 min)
 Deel de beoordelinsformulieren uit en vertel daarna de regels voor feedback uit Remmerswaal. Goede feedback is:
@@ -47,13 +48,7 @@ Deel de beoordelinsformulieren uit en vertel daarna de regels voor feedback uit 
 9. Vraag de studenten op een gele post-it een samenvatting van de ontvangen feedback te geven, laat alle kleuren post-its inleveren, laat deze op het formulier van de betreffende student plakken en neem de formulieren weer in.
 
 ### Nieuwe teamindeling (5 min)
-De nieuwe teamindeling wordt algoritmisch. Wat dit inhoudt is dat je een onderscheidende eigenschap neemt, de klas op basis van dat kenmerk indeelt en vervolgens het aantal teams 'aftelt'. Eventueel kan je de klas het kenmerk laten kiezen. Voorbeelden die goed werken (uit ervaring) zijn:
-- schoenmaat (wel weinig spreiding)
-- vierde en vijfde cijfer van het mobiele telefoonnummer
-- geboortedag
-- de letters van de postcode
-
-Als je vijf teams wilt tel je van een tot vijf de rij af, studenten met hetzelfde nummer kunnen dan bij elkaar gaan zitten.
+Deel de nieuwe teamindeling mee aan de klas, op dat moment ontstaat er waarschijnlijk chaos.
 
 *LET OP, DE TEAMS MOETEN BIJ DE WERKPLAATS NOG IN DE OUDE FORMATIE GAAN ZITTEN*
 
