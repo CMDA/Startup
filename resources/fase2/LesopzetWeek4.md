@@ -1,5 +1,5 @@
 # Lesopzet week 4
-Het begin van de tweede fase gaat gepaard met een vergroting van de verantwoording die het team zelf draagt. Het is de bedoeling dat de teams deze fase zelf hun taken bedenken, daar een gewicht aan toekennen door middel van de planning poker en deze tenslotte eerlijk verdelen over de verschillende teamleden waarbij gelet wordt op individuele expertise. De planning poker sessie wordt een eerst klassikaal geoefend voordat deze in de teams zelf uitgevoerd wordt.
+Het begin van de tweede fase gaat gepaard met een vergroting van de verantwoording die het team zelf draagt. Het is de bedoeling dat de teams deze fase zelf hun taken bedenken, daar een gewicht aan toekennen door middel van de planning poker en deze tenslotte eerlijk verdelen over de verschillende teamleden waarbij gelet wordt op individuele expertise. De planning poker sessie wordt vandaag klassikaal geoefend voordat deze in de teams zelf uitgevoerd wordt.
 
 ## Hoorcollege
 In het hoorcollege is nog eens gehamerd op de insteek van dit project. Essentieel is dat de teams zelf eigenaar van hun project worden. Daarnaast is de opdracht voor de komende fase verhelderd, studenten gaan een 'viral' maken voor twee verschillende opdrachtgevers, het is aan hen om op gepaste wijze invulling aan deze brede opdracht te geven.
