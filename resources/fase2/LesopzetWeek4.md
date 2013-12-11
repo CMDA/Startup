@@ -22,7 +22,7 @@ Als de studenten vorige week de reguliere les hebben gevolgd dan hebben ze zich 
 - Viral video's en internet meme's
 - Storytelling
 
-# Individuele uitdaging (15 min)
+# Individuele uitdaging (15 min) *optioneel*
 Om er voor te zorgen dat alle studenten een haalbare uitdaging voor zichzelf opgesteld hebben (dat was immers het huiswerk, zie http://startup.cmdproject.nl/resources/fase1/takenlijstWeek3.html) bespreken we klassikaal de opgestelde doelen. 
 
 Deel de beoordelingsformulieren uit aan de studenten. Kies steekproefsgewijs drie studenten uit, vraag ze om hun persoonlijke uitdaging uit te spreken en ga na of de uitdaging realistisch is. Met andere woorden, betreft het een uitdaging welke betrekking heeft op de verandering van specifiek gedrag en is de student überhaupt in staat hier iets aan te veranderen. Hanteer hierbij de volgende punten:
