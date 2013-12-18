@@ -1,4 +1,5 @@
 # Story? Telling?
+> Mensen vertellen elkaar verhalen om enigszins te snappen wat men aan moet met het leven. - Harold Konickx
 
 !
 
