@@ -95,6 +95,11 @@ In jullie geval is er al een onderverdeling in taken, dat is een voordeel omdat 
 	- deelvraag 2
 	- deelvraag 3
 	- etc.
+- conclusies van onderzoek (ontwerpkaders!)
+	- deelvraag 1
+	- deelvraag 2
+	- deelvraag 3
+	- etc.
 - oplossingsrichtingen
 	- oplossing 1
 	- oplossing 2
