@@ -1,0 +1,140 @@
+html, html a {
+    -webkit-font-smoothing: antialiased;
+    text-shadow: 1px 1px 1px rgba(0,0,0,0.004);
+}
+
+body {
+  min-height: 2000px;
+  padding-top: 70px;
+  color: #34302d;
+}
+
+.container {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+h4 {
+  margin-top: 25px;
+}
+
+p {
+  font-weight: 300;
+}
+strong, b {
+  font-weight: 600;
+}
+
+.row {
+  margin-bottom: 20px;
+}
+.row .row {
+  margin-top: 10px;
+  margin-bottom: 0;
+}
+/*
+[class*="col-"] {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #eee;
+  border: 1px solid #ddd;
+  background-color: rgba(86,61,124,.15);
+  border: 1px solid rgba(86,61,124,.2);
+}*/
+
+hr {
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+.navbar {
+  border-top: .4em rgb(226,0,125) solid;
+  background: #34302d;
+}
+.navbar-default .navbar-brand,
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:focus {
+  font-weight: bold;
+  text-transform: uppercase;
+  color: #ffffff;
+}
+.navbar-default .navbar-nav > li > a {
+  font-weight: bold;
+  color: #ffffff;
+}
+
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+  background-color: rgb(226,0,125);
+  color: #ffffff;
+}
+
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:hover,
+.navbar-default .navbar-nav > .active > a:focus {
+  color: #ffffff;
+  text-decoration: underline;
+  background-color: transparent;
+}
+
+.navbar-default .navbar-nav > .disabled > a,
+.navbar-default .navbar-nav > .disabled > a:hover,
+.navbar-default .navbar-nav > .disabled > a:focus {
+  color: #c2c2c2;
+  background-color: transparent;
+}
+
+.navbar-default .navbar-toggle {
+  border-color: transparent;
+}
+
+.navbar-default .navbar-toggle:hover,
+.navbar-default .navbar-toggle:focus {
+  background: transparent;
+  border-color: #ffffff;
+  border-color: transparent;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+  background-color: #ffffff;
+}
+
+.navbar-default .navbar-collapse,
+.navbar-default .navbar-form {
+  border-color: #34302d;
+}
+.centered-icon {
+  display: block;
+  margin: 0 auto;
+  font-size: 2.5em;
+  text-align: center;
+  line-height: 2.5em;
+}
+.jumbotron.startup {
+  background: url(../pics/projectgroep.jpg);
+  background-size: cover;
+}
+.jumbotron.tools {
+  background: url(../pics/postits.jpg);
+  background-size: cover;
+}
+.jumbotron p,
+.jumbotron h1 {
+  display: inline-block;
+  padding: .1em;
+  background: rgba(42,58,45,.6);
+  color: white;
+  width: auto;
+}
+
+.list-group-item p>span {
+  font-weight: bold;
+}
+
+.list-group-item .horizontal-anchor {
+  position: relative;
+  width: 5px;
+  height: 5px;
+  background: red;
+  top: -100px;
+}
